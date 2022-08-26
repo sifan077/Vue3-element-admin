@@ -1,0 +1,28 @@
+{
+  "name": "vite-vue-admin-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "json-server db.json --port 8000",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.9",
+    "axios": "^0.27.2",
+    "echarts": "^5.3.3",
+    "element-plus": "^2.2.14",
+    "lib-flexible": "^0.3.2",
+    "nprogress": "^0.2.0",
+    "qrcodejs2-fix": "^0.0.1",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.7"
+  }
+}
