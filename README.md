@@ -1,5 +1,5 @@
 # vue3-element-admin
-Vue3 + element ui + echarts的练手小项目。
+Vue3 + Vuex + Vue-Router + element ui + echarts的练手小项目。
 
 1. 安装依赖:
 
